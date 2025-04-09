@@ -14,11 +14,6 @@
 - avalanche => chain (usdc / usdt)
 - bsc       => chain (usdt)
 3. woofi :
-- arbitrum  => chain (eth / usdc)
-- optimism  => chain (eth)
-- polygon   => chain (matic / usdc)
-- bsc       => chain (bnb)
-- fantom    => chain (usdc)
 - avalanche => chain (avax / usdc)
 4. aptosbridge :
 - arbitrum  => aptos (eth)
