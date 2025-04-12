@@ -4,7 +4,6 @@
 
 1. testnet bridge : 
 - arbitrum  => goerli (eth) 
-- optimism  => goerli (eth) 
 2. stargate : 
 - arbitrum  => chain (eth / usdc / usdt)
 - optimism  => chain (eth / usdc)
