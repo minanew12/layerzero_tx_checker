@@ -9,8 +9,6 @@
 - optimism  => chain (eth / usdc)
 - polygon   => chain (usdc / usdt)
 - fantom    => chain (usdc)
-3. woofi :
-- avalanche => chain (avax / usdc)
 4. aptosbridge :
 - arbitrum  => aptos (eth)
 - bsc       => aptos (usdt / usdc)
